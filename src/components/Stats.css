@@ -1,0 +1,23 @@
+.stats {
+    margin: 20px 100px;
+}
+
+.stats-h4 {
+    margin-bottom: 10px;
+}
+
+.stats-table {
+    border-spacing: 0;
+}
+
+td {
+    padding: 8px;
+}
+
+.cold {
+    background: #D9EDF7;
+}
+
+.hot {
+    background: #F2DEDE;
+}

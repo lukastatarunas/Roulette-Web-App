@@ -1,0 +1,11 @@
+.game-board-h4 {
+    margin-bottom: 10px;
+}
+
+button {
+    color: #fff;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    padding: 8px;
+}
