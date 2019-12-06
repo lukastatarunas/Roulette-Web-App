@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Roulette-Web-App/static/css/main.c4f25f8b.chunk.css",
+    "main.js": "/Roulette-Web-App/static/js/main.8c1dafbf.chunk.js",
+    "main.js.map": "/Roulette-Web-App/static/js/main.8c1dafbf.chunk.js.map",
+    "runtime-main.js": "/Roulette-Web-App/static/js/runtime-main.0be5ce29.js",
+    "runtime-main.js.map": "/Roulette-Web-App/static/js/runtime-main.0be5ce29.js.map",
+    "static/js/2.a67e9833.chunk.js": "/Roulette-Web-App/static/js/2.a67e9833.chunk.js",
+    "static/js/2.a67e9833.chunk.js.map": "/Roulette-Web-App/static/js/2.a67e9833.chunk.js.map",
+    "index.html": "/Roulette-Web-App/index.html",
+    "precache-manifest.48bf700d06a9e6233c8cab00a5772dcd.js": "/Roulette-Web-App/precache-manifest.48bf700d06a9e6233c8cab00a5772dcd.js",
+    "service-worker.js": "/Roulette-Web-App/service-worker.js",
+    "static/css/main.c4f25f8b.chunk.css.map": "/Roulette-Web-App/static/css/main.c4f25f8b.chunk.css.map",
+    "static/js/2.a67e9833.chunk.js.LICENSE": "/Roulette-Web-App/static/js/2.a67e9833.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0be5ce29.js",
+    "static/js/2.a67e9833.chunk.js",
+    "static/css/main.c4f25f8b.chunk.css",
+    "static/js/main.8c1dafbf.chunk.js"
+  ]
+}
